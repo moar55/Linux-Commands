@@ -1,7 +1,7 @@
-# Linux-Commands
+# Linux-Tips
 
 
-## Important Linux Commands
+## Important Linux Commands and Tips
 
 * journalctl-fa  *to print info of connected and disconnected devices*
 * ifconfig  *equivalent of ipconfig*
